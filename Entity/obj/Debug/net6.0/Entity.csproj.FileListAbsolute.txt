@@ -1,0 +1,15 @@
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Damir\source\repos\RestoranSln\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\Damir\source\repos\RestoranSln\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\Damir\source\repos\RestoranSln\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\Damir\source\repos\RestoranSln\Entity\bin\Debug\net6.0\Core.dll
+C:\Users\Damir\source\repos\RestoranSln\Entity\bin\Debug\net6.0\Core.pdb
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.csproj.Up2Date
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\Damir\source\repos\RestoranSln\Entity\obj\Debug\net6.0\ref\Entity.dll
